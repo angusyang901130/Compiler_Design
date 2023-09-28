@@ -1,11 +1,3 @@
-parser.output
-parser.h
-parser.c*
-parser
-scanner.c*
-*.hh
-
-docker/.history
 .vscode
 .bash_history
 .platformio
